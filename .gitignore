@@ -1,0 +1,17 @@
+# Artefatos gerados localmente e binários do jogo (não redistribuir arquivos proprietários)
+trabalho/
+*.exe
+*.dll
+*.assets
+*.bak
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Sistema / IDE
+.DS_Store
+Thumbs.db
